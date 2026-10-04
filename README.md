@@ -51,6 +51,16 @@ Released in June 2006 under the legendary label G-Series, *Light Years Ahead* (a
 - [**13 Ato Raag-**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Light%20Years%20Ahead/13%20Ato%20Raag-.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Light%20Years%20Ahead/13%20Ato%20Raag-.wav?download=true)
 - [**14 Bloopers**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Light%20Years%20Ahead/14%20Bloopers.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Light%20Years%20Ahead/14%20Bloopers.wav?download=true)
 
+### 🖼️ Album Artwork & Packaging Scans
+*(Featured in order of physical release: Front Cover → Insets & Posters → Disc / Cassette → Back Cover Wrap)*
+
+| | |
+| :---: | :---: |
+| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BFront-Digital%5D.jpg" width="300" alt="1. Front Cover (Digital)" /><br><sub><b>1. Front Cover (Digital)</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/cover.jpg" width="300" alt="2. Front Cover (Original)" /><br><sub><b>2. Front Cover (Original)</b></sub> |
+| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BInlay%5D.jpg" width="300" alt="3. Inside Inlay & Lyrics" /><br><sub><b>3. Inside Inlay & Lyrics</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
+| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCassette%20Sleeve-1%5D.jpg" width="300" alt="5. Cassette J-Card (Side 1)" /><br><sub><b>5. Cassette J-Card (Side 1)</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCassette%20Sleeve-2%5D.jpg" width="300" alt="6. Cassette J-Card (Side 2)" /><br><sub><b>6. Cassette J-Card (Side 2)</b></sub> |
+| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BFront-Back%5D.jpg" width="300" alt="7. Full Case Wrap (Front & Back)" /><br><sub><b>7. Full Case Wrap (Front & Back)</b></sub> |  |
+
 ---
 
 <a id="2-kolponar"></a>
@@ -83,6 +93,15 @@ Released in 2007 as the direct follow-up to their historic debut, *Kolponar Bair
 - [**Sample This**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Sample%20This.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Sample%20This.mp3?download=true)
 - [**Shapura**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Shapura.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Shapura.mp3?download=true)
 - [**Somoyer Palki**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Somoyer%20Palki.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Somoyer%20Palki.mp3?download=true)
+
+### 🖼️ Album Artwork & Packaging Scans
+*(Featured in order of physical release: Front Cover → Insets & Posters → Disc / Cassette → Back Cover Wrap)*
+
+| | |
+| :---: | :---: |
+| <img src="STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Album%20Covers/Kolponar%2BBaire%2B-5BArtwork-5D.jpg" width="300" alt="1. Front Cover Artwork" /><br><sub><b>1. Front Cover Artwork</b></sub> | <img src="STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BPoster%5D.jpg" width="300" alt="2. Collector's Poster" /><br><sub><b>2. Collector's Poster</b></sub> |
+| <img src="STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BInlay-Front%5D.jpg" width="300" alt="3. Inside Inlay (Front)" /><br><sub><b>3. Inside Inlay (Front)</b></sub> | <img src="STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
+| <img src="STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BInlay-Back%5D.jpg" width="300" alt="5. Tray Inlay (Back)" /><br><sub><b>5. Tray Inlay (Back)</b></sub> | <img src="STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BFront-Back%5D.jpg" width="300" alt="6. Full Case Wrap (Front & Back)" /><br><sub><b>6. Full Case Wrap (Front & Back)</b></sub> |
 
 ---
 
