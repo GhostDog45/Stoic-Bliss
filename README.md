@@ -25,7 +25,7 @@
 - **Band:** Stoic Bliss
 - **Release Year:** 2006
 - **Record Label:** G-Series
-- **Audio Quality:** Lossless WAV (16-bit / 44.1 kHz via Git LFS)
+- **Audio Quality:** Lossless WAV (16-bit / 44.1 kHz)
 
 <p align="center">
   <img src="Light%20Years%20Ahead/cover.jpg" width="300" alt="Light Years Ahead (আলোক বর্ষ দূরে) Cover" />
@@ -34,7 +34,7 @@
 ### 📖 About the Album
 Released in June 2006 under the legendary label G-Series, *Light Years Ahead* (also titled *Alok Borsho Durey*) is the monumental debut studio album by Stoic Bliss that launched the Bangla rap revolution. Selling over 250,000 copies in its first 10 months, it remains one of the best-selling and most culturally influential albums in Bangladeshi music history. Fueled by the colossal breakout single *"Abar Jigay"*—which instantly became a nationwide catchphrase—the album features an electrifying lineup of party bangers, emotional storytelling, and rap ballads including *"Mayabi Chokh"*, *"Party at PianoHouse"*, *"Sheshbarer Moto"*, and *"Chow Mei Fun"*.
 
-### 🎵 Tracklist & Direct One-Tap Downloads
+### 🎵 Tracklist (One-Tap Download)
 
 - [**01 Intro**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Light%20Years%20Ahead/01%20Intro.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Light%20Years%20Ahead/01%20Intro.wav?download=true)
 - [**02 Abar Jigay**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Light%20Years%20Ahead/02%20Abar%20Jigay.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Light%20Years%20Ahead/02%20Abar%20Jigay.wav?download=true)
@@ -51,8 +51,7 @@ Released in June 2006 under the legendary label G-Series, *Light Years Ahead* (a
 - [**13 Ato Raag-**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Light%20Years%20Ahead/13%20Ato%20Raag-.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Light%20Years%20Ahead/13%20Ato%20Raag-.wav?download=true)
 - [**14 Bloopers**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Light%20Years%20Ahead/14%20Bloopers.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Light%20Years%20Ahead/14%20Bloopers.wav?download=true)
 
-### 🖼️ Album Artwork & Packaging Scans
-*(Featured in order of physical release: Front Cover → Insets & Posters → Disc / Cassette → Back Cover Wrap)*
+### 🖼️ Album Artwork
 
 | | |
 | :---: | :---: |
@@ -69,7 +68,7 @@ Released in June 2006 under the legendary label G-Series, *Light Years Ahead* (a
 - **Band:** Stoic Bliss
 - **Release Year:** 2007
 - **Record Label:** G-Series
-- **Audio Quality:** High Quality 320 kbps MP3 (via Git LFS)
+- **Audio Quality:** High Quality 320 kbps MP3
 
 <p align="center">
   <img src="STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/cover.jpg" width="300" alt="Kolponar Baire (কল্পনার বাইরে) Cover" />
@@ -78,7 +77,7 @@ Released in June 2006 under the legendary label G-Series, *Light Years Ahead* (a
 ### 📖 About the Album
 Released in 2007 as the direct follow-up to their historic debut, *Kolponar Baire* ("Beyond Imagination") is the anticipated sophomore studio album by Stoic Bliss. Expanding their signature Queens-meets-Dhaka style, the record showcases an evolved sonic palette blending hardcore hip-hop verses, urban beats, and infectious melodic hooks. Standout anthems include *"Acid Ke?"*, the popular hit sequel *"Abar Abar Jigay"*, the witty tongue-twister *"Pakhi Paka Pepe Khay"*, and the nocturnal classic *"Raatri Jaga"*.
 
-### 🎵 Tracklist & Direct One-Tap Downloads
+### 🎵 Tracklist (One-Tap Download)
 
 - [**Abar Abar Jigay**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Abar%20Abar%20Jigay.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Abar%20Abar%20Jigay.mp3?download=true)
 - [**Acid Ke**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Acid%20Ke.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Acid%20Ke.mp3?download=true)
@@ -94,8 +93,7 @@ Released in 2007 as the direct follow-up to their historic debut, *Kolponar Bair
 - [**Shapura**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Shapura.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Shapura.mp3?download=true)
 - [**Somoyer Palki**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Somoyer%20Palki.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Somoyer%20Palki.mp3?download=true)
 
-### 🖼️ Album Artwork & Packaging Scans
-*(Featured in order of physical release: Front Cover → Insets & Posters → Disc / Cassette → Back Cover Wrap)*
+### 🖼️ Album Artwork
 
 | | |
 | :---: | :---: |
