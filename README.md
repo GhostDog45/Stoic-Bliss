@@ -1,6 +1,6 @@
 # 🎤 Stoic Bliss
 
-[![Audio Format - WAV & MP3](https://img.shields.io/badge/Audio%20Format-WAV%20%7C%20MP3-007ec6?style=for-the-badge&logo=audiomack&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20Audio-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
+[![← Back to BD Band Music](https://img.shields.io/badge/←%20Back%20to-BD%20Band%20Music-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostDog45/BD-Band-Music) [![Audio Format - WAV & MP3](https://img.shields.io/badge/Audio%20Format-WAV%20%7C%20MP3-007ec6?style=for-the-badge&logo=audiomack&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20Audio-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
 
 <p align="center">
   <img src="assets/band_cover.jpg" alt="Stoic Bliss Band" width="750" />
