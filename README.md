@@ -55,10 +55,10 @@ Released in June 2006 under the legendary label G-Series, *Light Years Ahead* (a
 
 | | |
 | :---: | :---: |
-| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BFront-Digital%5D.jpg" width="300" alt="1. Front Cover (Digital)" /><br><sub><b>1. Front Cover (Digital)</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/cover.jpg" width="300" alt="2. Front Cover (Original)" /><br><sub><b>2. Front Cover (Original)</b></sub> |
-| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BInlay%5D.jpg" width="300" alt="3. Inside Inlay & Lyrics" /><br><sub><b>3. Inside Inlay & Lyrics</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
-| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCassette%20Sleeve-1%5D.jpg" width="300" alt="5. Cassette J-Card (Side 1)" /><br><sub><b>5. Cassette J-Card (Side 1)</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCassette%20Sleeve-2%5D.jpg" width="300" alt="6. Cassette J-Card (Side 2)" /><br><sub><b>6. Cassette J-Card (Side 2)</b></sub> |
-| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BFront-Back%5D.jpg" width="300" alt="7. Full Case Wrap (Front & Back)" /><br><sub><b>7. Full Case Wrap (Front & Back)</b></sub> |  |
+| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BFront-Digital%5D.jpg" width="300" alt="2. Front Cover (Alternative Scan)" /><br><sub><b>2. Front Cover (Alternative Scan)</b></sub> |
+| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BInlay%5D.jpg" width="300" alt="3. Tray Inlay Artwork" /><br><sub><b>3. Tray Inlay Artwork</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
+| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCassette%20Sleeve-1%5D.jpg" width="300" alt="5. Light Years Ahead [Cassette Sleeve-1]" /><br><sub><b>5. Light Years Ahead [Cassette Sleeve-1]</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCassette%20Sleeve-2%5D.jpg" width="300" alt="6. Light Years Ahead [Cassette Sleeve-2]" /><br><sub><b>6. Light Years Ahead [Cassette Sleeve-2]</b></sub> |
+| <img src="Light%20Years%20Ahead/Album%20Covers/cover.jpg" width="300" alt="7. cover" /><br><sub><b>7. cover</b></sub> |  |
 
 ---
 
