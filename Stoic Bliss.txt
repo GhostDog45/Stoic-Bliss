@@ -1,0 +1,47 @@
+Download Report - 10/5/2026, 3:00:02 PM
+--------------------------------------------------
+
+[SUCCESS] Tota Pakhi - Apeiruss; Stoic Bliss
+[SUCCESS] Bounce A Little - Stoic Bliss; Ac1d; Kazzurg
+[SUCCESS] Twisted - Stoic Bliss; Ac1d; Kazzurg
+[SKIPPED] Black Magic - Stoic Bliss; Gamble; Ac1d
+[SUCCESS] Nishidhdho Bashona - Stoic Bliss; Kazzurg; Ac1d
+[SUCCESS] Club Bliss - Stoic Bliss; Ac1d; Lady Ac1D
+[SUCCESS] Shanti Melena Re-Mastered - Stoic Bliss; Ac1d; Kazzurg; Fuad
+1. Twist Of Fate - Stoic Bliss; Ac1d; Rated PG (2000's Hits Re-Mastered)
+   Error: Error: failed to download file: failed to write file: local error: tls: bad record MAC
+   ID: 7tqV2P4ShInRD5v9QZwK38
+   URL: https://open.spotify.com/track/7tqV2P4ShInRD5v9QZwK38
+
+2. I Make It Hot - Stoic Bliss; Ac1d; Kazzurg (2000's Hits Re-Mastered)
+   Error: Error: failed to download file: failed to write file: local error: tls: bad record MAC
+   ID: 4TMU37B2l3XU60ZJvDkNuf
+   URL: https://open.spotify.com/track/4TMU37B2l3XU60ZJvDkNuf
+
+3. DBoy Freestyle - Stoic Bliss; Lit Slick; Ikky Gaa (DBoy Freestyle)
+   Error: Error: downloaded file duration mismatch: file is 113s, expected about 178s. file was removed
+   ID: 1F2ePrPdISTnJbYCLeXLZ3
+   URL: https://open.spotify.com/track/1F2ePrPdISTnJbYCLeXLZ3
+
+[SUCCESS] Lil Bangladesh - Stoic Bliss; Lit Slick
+4. Mon - Stoic Bliss; Kazzurg (Dubche Sriti)
+   Error: Error: downloaded file duration mismatch: file is 288s, expected about 165s. file was removed
+   ID: 532qffJfLim6UKKiUl7HDm
+   URL: https://open.spotify.com/track/532qffJfLim6UKKiUl7HDm
+
+5. Mayabi - Stoic Bliss; Lit Slick; Kazzurg; Silma (Dubche Sriti)
+   Error: Error: downloaded file duration mismatch: file is 223s, expected about 167s. file was removed
+   ID: 11DGKrlU24npM3NCtQmzSM
+   URL: https://open.spotify.com/track/11DGKrlU24npM3NCtQmzSM
+
+6. Shimaheen - Stoic Bliss; Kazzurg (Dubche Sriti)
+   Error: Error: downloaded file duration mismatch: file is 113s, expected about 152s. file was removed
+   ID: 1EWHZtBrV4ity7mlgU10ZP
+   URL: https://open.spotify.com/track/1EWHZtBrV4ity7mlgU10ZP
+
+[SUCCESS] Adrenaline - Stoic Bliss; Lit Slick; Kazzurg; Silma
+7. Jhulais Na - Stoic Bliss; Lit Slick; Silma; Kazzurg (Dubche Sriti)
+   Error: failed to get download URL: all APIs and fallbacks failed. Last error: This is normal and not a bug. The server is overloaded and taking a short break. Please try again in about 120 minute(s), thanks for your patience.
+   ID: 7EkoCHVaUft0j9vEGv5GKH
+   URL: https://open.spotify.com/track/7EkoCHVaUft0j9vEGv5GKH
+
