@@ -1,6 +1,6 @@
 # 🎤 Stoic Bliss
 
-[![← Back to BD Band Music](https://img.shields.io/badge/←%20Back%20to-BD%20Band%20Music-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostDog45/BD-Band-Music) [![Audio Format - WAV & MP3](https://img.shields.io/badge/Audio%20Format-WAV%20%7C%20MP3-007ec6?style=for-the-badge&logo=audiomack&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20Audio-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
+[![← Back to BD Band Music](https://img.shields.io/badge/←%20Back%20to-BD%20Band%20Music-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostDog45/BD-Band-Music) [![Audio Format - FLAC | WAV | MP3](https://img.shields.io/badge/Audio%20Format-FLAC%20%7C%20WAV%20%7C%20MP3-007ec6?style=for-the-badge&logo=audiomack&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20Audio-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
 
 <p align="center">
   <img src="assets/band_cover.jpg" alt="Stoic Bliss Band" width="750" />
@@ -16,6 +16,10 @@
 
 1. [Light Years Ahead (আলোক বর্ষ দূরে) (2006)](#1-light)
 2. [Kolponar Baire (কল্পনার বাইরে) (2007)](#2-kolponar)
+3. [2000's Hits Re-Mastered](#3-2000s-hits-re-mastered)
+4. [Dubche Sriti](#4-dubche-sriti)
+5. [Lil Bangladesh](#5-lil-bangladesh)
+6. [Singles & Collaborations](#6-singles--collaborations)
 
 ---
 
@@ -71,7 +75,7 @@ Released in June 2006 under the legendary label G-Series, *Light Years Ahead* (a
 - **Audio Quality:** High Quality 320 kbps MP3
 
 <p align="center">
-  <img src="STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/cover.jpg" width="300" alt="Kolponar Baire (কল্পনার বাইরে) Cover" />
+  <img src="KOLPONAR%20BAIRE/cover.jpg" width="300" alt="Kolponar Baire (কল্পনার বাইরে) Cover" />
 </p>
 
 ### 📖 About the Album
@@ -79,19 +83,19 @@ Released in 2007 as the direct follow-up to their historic debut, *Kolponar Bair
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Abar Abar Jigay**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Abar%20Abar%20Jigay.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Abar%20Abar%20Jigay.mp3?download=true)
-- [**Acid Ke**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Acid%20Ke.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Acid%20Ke.mp3?download=true)
-- [**Amar Bondhu Bonduk**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Amar%20Bondhu%20Bonduk.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Amar%20Bondhu%20Bonduk.mp3?download=true)
-- [**Berajaal**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Berajaal.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Berajaal.mp3?download=true)
-- [**Ei Je Ami**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Ei%20Je%20Ami.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Ei%20Je%20Ami.mp3?download=true)
-- [**FIRE LIKE A DRAGON**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/FIRE%20LIKE%20A%20DRAGON.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/FIRE%20LIKE%20A%20DRAGON.mp3?download=true)
-- [**Intro**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Intro.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Intro.mp3?download=true)
-- [**Pakhi Paka Pepe Khay**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Pakhi%20Paka%20Pepe%20Khay.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Pakhi%20Paka%20Pepe%20Khay.mp3?download=true)
-- [**Pura Ura Dhura**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Pura%20Ura%20Dhura.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Pura%20Ura%20Dhura.mp3?download=true)
-- [**Raatri Jaga**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Raatri%20Jaga.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Raatri%20Jaga.mp3?download=true)
-- [**Sample This**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Sample%20This.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Sample%20This.mp3?download=true)
-- [**Shapura**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Shapura.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Shapura.mp3?download=true)
-- [**Somoyer Palki**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Somoyer%20Palki.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Somoyer%20Palki.mp3?download=true)
+- [**Abar Abar Jigay**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Abar%20Abar%20Jigay.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Abar%20Abar%20Jigay.mp3?download=true)
+- [**Acid Ke**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Acid%20Ke.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Acid%20Ke.mp3?download=true)
+- [**Amar Bondhu Bonduk**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Amar%20Bondhu%20Bonduk.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Amar%20Bondhu%20Bonduk.mp3?download=true)
+- [**Berajaal**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Berajaal.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Berajaal.mp3?download=true)
+- [**Ei Je Ami**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Ei%20Je%20Ami.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Ei%20Je%20Ami.mp3?download=true)
+- [**FIRE LIKE A DRAGON**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/FIRE%20LIKE%20A%20DRAGON.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/FIRE%20LIKE%20A%20DRAGON.mp3?download=true)
+- [**Intro**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Intro.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Intro.mp3?download=true)
+- [**Pakhi Paka Pepe Khay**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Pakhi%20Paka%20Pepe%20Khay.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Pakhi%20Paka%20Pepe%20Khay.mp3?download=true)
+- [**Pura Ura Dhura**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Pura%20Ura%20Dhura.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Pura%20Ura%20Dhura.mp3?download=true)
+- [**Raatri Jaga**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Raatri%20Jaga.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Raatri%20Jaga.mp3?download=true)
+- [**Sample This**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Sample%20This.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Sample%20This.mp3?download=true)
+- [**Shapura**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Shapura.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Shapura.mp3?download=true)
+- [**Somoyer Palki**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Somoyer%20Palki.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/KOLPONAR%20BAIRE/Somoyer%20Palki.mp3?download=true)
 
 ### 🖼️ Album Artwork
 
@@ -100,6 +104,75 @@ Released in 2007 as the direct follow-up to their historic debut, *Kolponar Bair
 | <img src="KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="KOLPONAR%20BAIRE/Album%20Covers/Kolponar%2BBaire%2B-5BArtwork-5D.jpg" width="300" alt="2. Gatefold Artwork" /><br><sub><b>2. Gatefold Artwork</b></sub> |
 | <img src="KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BPoster%5D.jpg" width="300" alt="3. Promotional Poster & Lyrics" /><br><sub><b>3. Promotional Poster & Lyrics</b></sub> | <img src="KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BInlay-Front%5D.jpg" width="300" alt="4. Inlay (Front)" /><br><sub><b>4. Inlay (Front)</b></sub> |
 | <img src="KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BCD%5D.jpg" width="300" alt="5. Compact Disc (CD)" /><br><sub><b>5. Compact Disc (CD)</b></sub> | <img src="KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BInlay-Back%5D.jpg" width="300" alt="6. Back Inset" /><br><sub><b>6. Back Inset</b></sub> |
+
+---
+
+---
+
+<a id="3-2000s-hits-re-mastered"></a>
+## 3. 2000's Hits Re-Mastered
+
+- **Artist:** Stoic Bliss
+- **Audio Quality:** Lossless FLAC & High-Quality MP3
+
+### 📖 About the Release
+High-fidelity remastered editions of Stoic Bliss's iconic defining classics and club anthems from the golden 2000s era, restored and enhanced with crisp punchy beats, deep bass, and pristine vocal clarity.
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Stoic Bliss - Black Magic**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Black%20Magic.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=audiomack)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Black%20Magic.mp3?download=true)
+- [**Stoic Bliss - Bounce A Little**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Bounce%20A%20Little.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Bounce%20A%20Little.flac?download=true)
+- [**Stoic Bliss - Club Bliss**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Club%20Bliss.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Club%20Bliss.flac?download=true)
+- [**Stoic Bliss - I Make It Hot**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20I%20Make%20It%20Hot.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20I%20Make%20It%20Hot.flac?download=true)
+- [**Stoic Bliss - Nishidhdho Bashona**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Nishidhdho%20Bashona.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Nishidhdho%20Bashona.flac?download=true)
+- [**Stoic Bliss - Shanti Melena Re-Mastered**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Shanti%20Melena%20Re-Mastered.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Shanti%20Melena%20Re-Mastered.flac?download=true)
+- [**Stoic Bliss - Twist Of Fate**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Twist%20Of%20Fate.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=audiomack)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Twist%20Of%20Fate.mp3?download=true)
+- [**Stoic Bliss - Twisted**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Twisted.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Twisted.flac?download=true)
+
+---
+
+<a id="4-dubche-sriti"></a>
+## 4. Dubche Sriti
+
+- **Artist:** Stoic Bliss
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+### 📖 About the Release
+Singles and recordings from the *Dubche Sriti* project sessions.
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Stoic Bliss - Adrenaline**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Dubche%20Sriti/Stoic%20Bliss%20-%20Adrenaline.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Dubche%20Sriti/Stoic%20Bliss%20-%20Adrenaline.flac?download=true)
+
+---
+
+<a id="5-lil-bangladesh"></a>
+## 5. Lil Bangladesh
+
+- **Artist:** Stoic Bliss
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+### 📖 About the Release
+An energetic hip-hop tribute anthem celebrating Bangladeshi heritage and underground street culture.
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Stoic Bliss - Lil Bangladesh**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Lil%20Bangladesh/Stoic%20Bliss%20-%20Lil%20Bangladesh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Lil%20Bangladesh/Stoic%20Bliss%20-%20Lil%20Bangladesh.flac?download=true)
+
+---
+
+<a id="6-singles--collaborations"></a>
+## 6. Singles & Collaborations
+
+- **Artist:** Stoic Bliss
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+### 📖 About the Release
+Featured collaborations and standalone singles.
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Apeiruss - Tota Pakhi**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Singles/Apeiruss%20-%20Tota%20Pakhi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/Singles/Apeiruss%20-%20Tota%20Pakhi.flac?download=true)
 
 ---
 
