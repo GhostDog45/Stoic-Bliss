@@ -97,9 +97,9 @@ Released in 2007 as the direct follow-up to their historic debut, *Kolponar Bair
 
 | | |
 | :---: | :---: |
-| <img src="STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Album%20Covers/Kolponar%2BBaire%2B-5BArtwork-5D.jpg" width="300" alt="1. Front Cover Artwork" /><br><sub><b>1. Front Cover Artwork</b></sub> | <img src="STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BPoster%5D.jpg" width="300" alt="2. Collector's Poster" /><br><sub><b>2. Collector's Poster</b></sub> |
-| <img src="STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BInlay-Front%5D.jpg" width="300" alt="3. Inside Inlay (Front)" /><br><sub><b>3. Inside Inlay (Front)</b></sub> | <img src="STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
-| <img src="STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BInlay-Back%5D.jpg" width="300" alt="5. Tray Inlay (Back)" /><br><sub><b>5. Tray Inlay (Back)</b></sub> | <img src="STOIC%20BLISS%20-%20KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BFront-Back%5D.jpg" width="300" alt="6. Full Case Wrap (Front & Back)" /><br><sub><b>6. Full Case Wrap (Front & Back)</b></sub> |
+| <img src="KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="KOLPONAR%20BAIRE/Album%20Covers/Kolponar%2BBaire%2B-5BArtwork-5D.jpg" width="300" alt="2. Gatefold Artwork" /><br><sub><b>2. Gatefold Artwork</b></sub> |
+| <img src="KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BPoster%5D.jpg" width="300" alt="3. Promotional Poster & Lyrics" /><br><sub><b>3. Promotional Poster & Lyrics</b></sub> | <img src="KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BInlay-Front%5D.jpg" width="300" alt="4. Inlay (Front)" /><br><sub><b>4. Inlay (Front)</b></sub> |
+| <img src="KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BCD%5D.jpg" width="300" alt="5. Compact Disc (CD)" /><br><sub><b>5. Compact Disc (CD)</b></sub> | <img src="KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BInlay-Back%5D.jpg" width="300" alt="6. Back Inset" /><br><sub><b>6. Back Inset</b></sub> |
 
 ---
 
