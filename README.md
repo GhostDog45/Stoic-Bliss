@@ -14,8 +14,8 @@
 
 ## 📑 Discography Index
 
-1. [Light Years Ahead (আলোক বর্ষ দূরে) (2006)](#1-light)
-2. [Kolponar Baire (কল্পনার বাইরে) (2007)](#2-kolponar)
+1. [Light Years Ahead (আলোক বর্ষ দূরে)](#1-light)
+2. [Kolponar Baire (কল্পনার বাইরে)](#2-kolponar)
 3. [2000's Hits Re-Mastered](#3-2000s-hits-re-mastered)
 4. [Dubche Sriti](#4-dubche-sriti)
 5. [Lil Bangladesh](#5-lil-bangladesh)
